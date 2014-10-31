@@ -1,0 +1,10 @@
+#body{
+	background-color: #F1DD87;
+	height: 1000px;
+}
+
+#newbee{
+	position: absolute;
+ 	top: 0px; 
+ 	left: 0px;
+}
