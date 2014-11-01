@@ -7,7 +7,5 @@ function mouseIn(event){
   	var mouseY = event.clientY;
 	
 	image.style.left = mouseX + "px";
-	
 	image.style.top = mouseY + "px";
-	//document.write("Hello world!");
 }
